@@ -11,8 +11,4 @@ func TestRunnig(t *testing.T) {
 
 func Printing() string {
 	return "Running Successfully."
-<<<<<<< HEAD
-	
-=======
->>>>>>> master
 }
